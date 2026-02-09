@@ -1,7 +1,5 @@
 # ``` Olá, Mundo! ``` 👍
 
-🌎 [english version](/README.en.md)
-
 ---
 🙋‍♂️ Meu nome é Arthur Budny, desenvolvedor backend atualmente morando no Brasil.
 
